@@ -1,5 +1,5 @@
 # DonadBlog
 
-## A blog using GithubPage.
+A blog using GithubPage.
 
-## Forked from `sergiokopplin/indigo` .
+Forked from `sergiokopplin/indigo` .
