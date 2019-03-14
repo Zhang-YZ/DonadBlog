@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://Zhang-YZ/DonaldBlog
+url: https://zhang-yz.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -48,7 +48,7 @@ github: Zhang-YZ
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: chinasdzyz@gmail.com
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
-# blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
