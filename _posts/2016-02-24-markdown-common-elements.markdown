@@ -7,7 +7,8 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+hidden: true
+star: false
 category: blog
 author: johndoe
 description: Markdown summary with different options

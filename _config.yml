@@ -54,6 +54,12 @@ github: Zhang-YZ
 email: chinasdzyz@gmail.com
 
 authors:
+    donald:
+        name: Donald
+        bio: Work hard & Take exercise & Enjoy life
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: yzh_zhang
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles

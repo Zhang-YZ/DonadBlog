@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - components
-- extra
+hidden: false
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
