@@ -4,7 +4,7 @@ layout: post
 date: 2019-03-15 12:00
 image: /assets/images/markdown.jpg
 headerImage: true
-tag：
+tag:
 - English
 star: false
 hidden: false
